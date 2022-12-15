@@ -1,0 +1,10 @@
+HTTP/1.0 200 OK
+Server: nginx
+Content-Length: 90
+Via: 1.1 google
+Date: Wed, 16 Nov 2022 23:41:21 GMT
+Age: 86143
+Content-Type: text/html
+Cache-Control: public,must-revalidate,max-age=0,s-maxage=3600
+
+<meta http-equiv="refresh" content="0;url=https://support.mozilla.org/kb/captive-portal"/>
