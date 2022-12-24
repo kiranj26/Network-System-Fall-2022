@@ -8,6 +8,10 @@ Focuses on design and implementation of network programs and systems, including 
 * Wireshark (To monitor Network Traffic)
 * Telnet
 
+# Programming 
+* C 
+* Python
+
 # Topics Covered
 * Networking Layers & Protocols
 * Boot Strapping
@@ -19,3 +23,5 @@ Focuses on design and implementation of network programs and systems, including 
 * Transport Protocols, Congestion Control, Queuing and Queue Management, Middleboxes and Tunneling.
 * Content Distribution 
 Networks (CDNs)
+
+
